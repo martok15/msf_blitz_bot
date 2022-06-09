@@ -2,7 +2,7 @@
 Python script to auto play Marvel Strike Force Blitz mode
 
 ## Video Demo
-[Youtube Video Demo](https://youtu.be/x28hSgdwTKE))
+[Youtube Video Demo](https://youtu.be/x28hSgdwTKE)
 
 ## pyautogui.py
 This script is created using pyautogui and using the locateOnScreen functions. The function is looking for pixel matches, so for this to run on your pc, you will need to replace the screenshots with your own. This will ensure the resolutions etc. match. 
